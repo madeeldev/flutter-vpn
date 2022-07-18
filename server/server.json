@@ -1,0 +1,37 @@
+[
+  {
+    "serverId": 1,
+    "name": "USA",
+    "isFree": true,
+    "src": "assets/images/usa.jpeg",
+    "locations": 7
+  },
+  {
+    "serverId": 2,
+    "name": "Canada",
+    "isFree": false,
+    "src": "assets/images/canada.png",
+    "locations": 5
+  },
+  {
+    "serverId": 3,
+    "name": "England",
+    "isFree": false,
+    "src": "assets/images/england.png",
+    "locations": 6
+  },
+  {
+    "serverId": 4,
+    "name": "France",
+    "isFree": true,
+    "src": "assets/images/france.png",
+    "locations": 9
+  },
+  {
+    "serverId": 5,
+    "name": "Ghana",
+    "isFree": false,
+    "src": "assets/images/ghana.png",
+    "locations": 4
+  }
+]

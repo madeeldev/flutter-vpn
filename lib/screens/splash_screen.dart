@@ -27,6 +27,7 @@ class _SplashScreenState extends State<SplashScreen> {
       appBar: PreferredSize(
         preferredSize: Size.zero,
         child: AppBar(
+          backgroundColor: Colors.white,
           elevation: 0,
           systemOverlayStyle: const SystemUiOverlayStyle(
             statusBarColor: Colors.white,
