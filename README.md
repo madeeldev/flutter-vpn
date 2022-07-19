@@ -17,7 +17,7 @@ If you found this project useful, then please consider giving it a ⭐️ on Git
 
 ## Art
 
-<img src="https://cdn.dribbble.com/userupload/3069620/file/original-dacd14685267eb5e91a20962c61b70a4.png?compress=1&resize=1504x1128" width="100%"  height="50%"/>
+<img src="https://cdn.dribbble.com/userupload/3069620/file/original-dacd14685267eb5e91a20962c61b70a4.png?compress=1&resize=1504x1128" width="80%"  height="50%"/>
 <br>
 
 ## App UI
