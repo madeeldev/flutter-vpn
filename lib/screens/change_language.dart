@@ -109,7 +109,10 @@ class _ChangeLanguageState extends State<ChangeLanguage> {
                         fontSize: 18
                     ),
                   ),
-                  GestureDetector(onTap: () => setState(() => _isGridView = !_isGridView), child: const Icon(Icons.grid_view,)),
+                  GestureDetector(
+                      onTap: () => setState(() => _isGridView = !_isGridView),
+                      child: _isGridView ? const Icon(Icons.grid_view,) : const Icon(Icons.view_list,)
+                  ),
                 ],
               ),
               Container(
