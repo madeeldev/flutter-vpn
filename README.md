@@ -1,4 +1,4 @@
-# VPN APP - Flutter UI
+# VPN App - Flutter UI
 
 <p align="center">
 
