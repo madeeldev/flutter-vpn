@@ -12,7 +12,7 @@
 
 This project is an implementation of a Design i found on [dribbble.com](https://dribbble.com/shots/18688045-VPN-App) by [Umar Aji Pratama](https://dribbble.com/umarajipratama)
 
-## :heavy_heart_exclamation: Found this project useful?
+## ❤️ Found this project useful?
 If you found this project useful, then please consider giving it a ⭐️ on Github and sharing it with your friends via social media.
 
 ## Art
